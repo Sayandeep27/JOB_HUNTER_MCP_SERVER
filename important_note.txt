@@ -1,0 +1,2 @@
+This project is basically like this - I have created the entire application using streamlit + apify api (scrapping linkedin and naukri) + LLM
+Later, I built an MCP server of it so that other users can use this application as mcp server
